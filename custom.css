@@ -1,0 +1,7 @@
+/*Les polices*/
+h1, h2, h3, h4, h5, h6, i { font-family: 'Abril Fatface', cursive; }
+p { font-family: 'arial'; }
+
+/*La couleur dominante*/
+.circle, .navbar, .frame { border-color: #00898E; }
+h1, h2, h3, h4, h5, h6, i, .item { color: #00898E; }
