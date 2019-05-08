@@ -1,7 +1,16 @@
 /*Les polices*/
+/*Récupérer cette propriété sur Google fonts : https://fonts.google.com/*/
 h1, h2, h3, h4, h5, h6, i { font-family: 'Abril Fatface', cursive; }
 p { font-family: 'arial'; }
 
 /*La couleur dominante*/
 .circle, .navbar, .frame { border-color: #00898E; }
 h1, h2, h3, h4, h5, h6, i, .item { color: #00898E; }
+
+/*Le fond de couleur*/
+/*Récupérer ces propriétés sur Ui Gradients: https://uigradients.com*/
+.bg-color {
+  background: #74ebd5;
+  background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);
+  background: linear-gradient(to right, #ACB6E5, #74ebd5);
+}
