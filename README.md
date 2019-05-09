@@ -25,7 +25,7 @@ L’ensemble du texte à modifier est dans le fichier index.html. Avec la config
 
 ## Personnaliser la couleur
 ### La couleur des titres et des cadres
-Pour modifier la couleur des titres et des cadres, il faut modifier le fichier custom.css. Plus précisément, il faut modifier le code hexadécimal de la couleur dominante ( ex: #00898E ) aux ligne 7 et 8 :
+Pour modifier la couleur des titres et des cadres, il faut modifier le fichier custom.css. Plus précisément, il faut modifier le code hexadécimal de la couleur dominante ( ex: #00898E ) aux lignes 7 et 8 :
 CODE
 
 ## Personnaliser les images
