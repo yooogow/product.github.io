@@ -20,7 +20,13 @@ Un dossier « images » contenant toutes les images au format jpg sauf le logo
 ## Personnaliser le texte
 L’ensemble du texte à modifier est dans le fichier index.html. Avec la configuration de base de sublime text ( theme: Monokai ) le texte modifiable a la couleur syntaxique BLANCHE. Il est déconseillé de toucher le reste, car cela risque de casser la structure globale du site. 
 
+## Personnaliser le texte
+L’ensemble du texte à modifier est dans le fichier index.html. Avec la configuration de base de sublime text ( theme: Monokai ) le texte modifiable a la couleur syntaxique BLANCHE. Il est déconseillé de toucher le reste, car cela risque de casser la structure globale du site. 
+
 ## Personnaliser la couleur
+### La couleur des titres et des cadres
+Pour modifier la couleur des titres et des cadres, il faut modifier le fichier custom.css. Plus précisément, il faut modifier le code hexadécimal de la couleur dominante ( ex: #00898E ) aux ligne 7 et 8 :
+CODE
 
 ## Personnaliser les images
 
