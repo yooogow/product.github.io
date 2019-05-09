@@ -14,14 +14,29 @@ Le template est structuré de la manière suivante:
 Un fichier index.html
 Un fichier style.css avec le style À NE PAS MODIFIER
 Un fichier custom.css regroupant les propriétés modifiable
-Un dossier « images » contenant toutes les images au format jpg sauf le logo au format png ( correspondant au format produit par freelogodesign.com ) 
+Un dossier « images » contenant toutes les images au format jpg sauf le logo au format png ( correspondant au format produit par freelogodesign.org ) 
 
+## Import du template
+Lien vers le projet Github: https://github.com/Joz84/product.github.io
+SCREENSHOT
+Cliquer sur "Clone or Download" puis sur "Download ZIP »
+Décompresser le fichier sur sa machine et l’ouvrir dans sublime text
 
 ## Personnaliser le texte
+### Le contenu
 L’ensemble du texte à modifier est dans le fichier index.html. Avec la configuration de base de sublime text ( theme: Monokai ) le texte modifiable a la couleur syntaxique BLANCHE. Il est déconseillé de toucher le reste, car cela risque de casser la structure globale du site. 
 
-## Personnaliser le texte
-L’ensemble du texte à modifier est dans le fichier index.html. Avec la configuration de base de sublime text ( theme: Monokai ) le texte modifiable a la couleur syntaxique BLANCHE. Il est déconseillé de toucher le reste, car cela risque de casser la structure globale du site. 
+### La police
+Pour personnaliser la police il faut tout d’abord choisir une police sur https://fonts.google.com.
+Une fois la police choisie il faut cliquer sur le « + » en haut à droite de la fiche de la police choisie :
+SCREENSHOT
+Un cadre Noir apparait en bas de la fenêtre. Il contient les instructions nécessaires pour importer la police dans son projet :
+SCREENSHOT
+Remplacer la ligne 9 dans index.html :
+CODE
+Modifier la ligne 3 pour changer la police des titres
+Modifier la ligne 4 pour changer la police du texte
+CODE
 
 ## Personnaliser la couleur
 ### La couleur des titres et des cadres
@@ -38,11 +53,21 @@ CODE
 ## Personnaliser les images
 Il est fortement conseillé de ne pas modifier le code pour changer les images. Il est conseillé de changer les images dans le dossier images. Pour que cela fonctionne il faut que les images et le MÊME NOM et la MÊME EXTENTION. Les extensions sont toutes jpg SAUF le logo qui est en png ( car cela correspond au format fourni par freelogodesign.org ).
 
-## Personnaliser la présentation du Figma
+## Inclure son la prévisualisation du prototype Figma
+Pour inclure la prévisualisation du prototype Figma il faut se rendre sur figma.com sur son projet et lancer la présentation ( le triangle en haut à droite ) :
+SCREENSHOT
+Puis cliquer sur « Share Prototype » en haut à droite :
+SCREENSHOT
+Puis « Public embed »:
+SCREENSHOT
+Puis « Copy » et coller le code dans le fichier index.html à la place de la ligne 93 :
+CODE
+
+
 
 ## Personnaliser le nombre de membres de la team
-
-
+Si l’équipe n’est pas constituée de 4 personnes il est possible d’ajouter/supprimer une fiche de présentation d’un membre dans la rubrique « L’équipe ». Pour cela il suffit de copier/supprimer le section comprise entre la ligne 141 et 151 du fichier index.html :
+CODE
 
 
 
