@@ -18,6 +18,7 @@ Un dossier « images » contenant toutes les images au format jpg sauf le logo
 
 
 ## Personnaliser le texte
+L’ensemble du texte à modifier est dans le fichier index.html. Avec la configuration de base de sublime text ( theme: Monokai ) le texte modifiable a la couleur syntaxique BLANCHE. Il est déconseillé de toucher le reste, car cela risque de casser la structure globale du site. 
 
 ## Personnaliser la couleur
 
