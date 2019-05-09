@@ -147,7 +147,15 @@ Après être retourné sur le dossier :
 
 https://github.com/Joz84/product.github.io
 
-Cliquer sur « Fork » en haut à droite. Sélectionner votre nom.
+<img src="/images-readme/fork1.png" width=700>
+
+Cliquer sur « Fork » en haut à droite. 
+
+<img src="/images-readme/fork2.png" width=700>
+
+Sélectionner votre nom.
+
+<img src="/images-readme/fork3.png" width=700>
 
 Le dossier est alors copier sur votre compte Github en ligne.
 
@@ -155,11 +163,19 @@ Le dossier est alors copier sur votre compte Github en ligne.
 
 Cliquer sur le fichier que vous souhaitez modifier, par exemple: index.html :
 
+<img src="/images-readme/custom1.png" width=700>
+
 Puis sur le petit stylet ( « Edit this file ») en haut à droite.
+
+<img src="/images-readme/custom2.png" width=700>
 
 Le fichier est alors en  mode édition et modifiable.
 
+<img src="/images-readme/custom3.png" width=700>
+
 Copier coller le contenu de votre index.html à la place de celui-ci puis cliquer sur le bouton vert « Commit changes » en bas à gauche.
+
+<img src="/images-readme/custom4.png" width=700>
 
 Faite de même pour tous les fichiers/dossiers que vous souhaitez modifier.
 
@@ -167,13 +183,26 @@ Faite de même pour tous les fichiers/dossiers que vous souhaitez modifier.
 
 Pour mettre le projet en ligne cliquer sur « Settings » en haut à droite
 
+<img src="/images-readme/prod1.png" width=700>
+
 Scroller jusqu’à la section « GitHub Pages »
 
+<img src="/images-readme/prod2.png" width=700>
+
 Cliquer sur « None » dans la rubrique « Source », puis sur « Master branch »
+
+<img src="/images-readme/prod3.png" width=700>
+
 Le site est alors en ligne. Un bandeau bleu avec le message « Your site is ready to be published at https://joz84.github.io/product.github.io/. » 
+
+<img src="/images-readme/prod4.png" width=700>
 
 Rafraîchissez la page.  
 
 Au bout d’une minute, lorsque le bandeau devient vert avec le message suivant : « 
  Your site is published at https://joz84.github.io/product.github.io/ »
 Le site est en ligne à l’adresse indiquée.
+
+<img src="/images-readme/prod5.png" width=700>
+
+Bravo votre site est en ligne!!!
