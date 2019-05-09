@@ -20,7 +20,7 @@ Le template est structuré de la manière suivante:
 ## Import du template
 Lien vers le projet Github: https://github.com/Joz84/product.github.io
 
-![](../images-readme/)
+<img src="/images-readme/setup.png" width=700>
 
 Cliquer sur "Clone or Download" puis sur "Download ZIP »
 Décompresser le fichier sur sa machine et l’ouvrir dans sublime text
