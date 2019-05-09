@@ -18,7 +18,8 @@ Le template est structuré de la manière suivante:
 
 ## Import du template
 Lien vers le projet Github: https://github.com/Joz84/product.github.io
-SCREENSHOT
+![](../images-readme/)
+
 Cliquer sur "Clone or Download" puis sur "Download ZIP »
 Décompresser le fichier sur sa machine et l’ouvrir dans sublime text
 
@@ -29,45 +30,58 @@ L’ensemble du texte à modifier est dans le fichier index.html. Avec la config
 ### La police
 Pour personnaliser la police il faut tout d’abord choisir une police sur https://fonts.google.com.
 Une fois la police choisie il faut cliquer sur le « + » en haut à droite de la fiche de la police choisie :
-SCREENSHOT
+![](../images-readme/)
 Un cadre Noir apparait en bas de la fenêtre. Il contient les instructions nécessaires pour importer la police dans son projet :
-SCREENSHOT
-Remplacer la ligne 9 dans index.html :
-CODE
+![](../images-readme/)
+Dans index.html
+Remplacer la ligne 9 :
+```html
+
+```
+Dans custom.css
 Modifier la ligne 3 pour changer la police des titres
 Modifier la ligne 4 pour changer la police du texte
-CODE
+```css
+
+```
 
 ## Personnaliser la couleur
 ### La couleur des titres et des cadres
 Pour modifier la couleur des titres et des cadres, il faut modifier le fichier custom.css. Plus précisément, il faut modifier le code hexadécimal de la couleur dominante ( ex: #00898E ) aux ligne 7 et 8 :
-CODE
+```css
+
+```
 
 ### Le fond de couleur ( dégradé ) de la présentation du Figma
 Pour modifier la fond couleur, il faut encore une fois modifier le fichier custom.css. Plus précisément, les lignes 14, 15 et 16 qui sont issues de UiGradients.com	
-SCREENSHOT1
+![](../images-readme/)
 Cliquer sur « <> » ( Get css ) en haut à droite.
-Cliquer sur « CLICK TO COPY » et coller le code à la place des lignes 14, 15 et 16 :
-CODE
+![](../images-readme/)
+Cliquer sur « CLICK TO COPY » et coller le code à la place des lignes 14, 15 et 16 du fichier custom.css :
+```css
+
+```
 
 ## Personnaliser les images
 Il est fortement conseillé de ne pas modifier le code pour changer les images. Il est conseillé de changer les images dans le dossier images. Pour que cela fonctionne il faut que les images et le MÊME NOM et la MÊME EXTENTION. Les extensions sont toutes jpg SAUF le logo qui est en png ( car cela correspond au format fourni par freelogodesign.org ).
 
 ## Inclure son la prévisualisation du prototype Figma
 Pour inclure la prévisualisation du prototype Figma il faut se rendre sur figma.com sur son projet et lancer la présentation ( le triangle en haut à droite ) :
-SCREENSHOT
+![](../images-readme/)
 Puis cliquer sur « Share Prototype » en haut à droite :
-SCREENSHOT
+![](../images-readme/)
 Puis « Public embed »:
-SCREENSHOT
+![](../images-readme/)
 Puis « Copy » et coller le code dans le fichier index.html à la place de la ligne 93 :
-CODE
+```html
+
+```
 
 
 
 ## Personnaliser le nombre de membres de la team
 Si l’équipe n’est pas constituée de 4 personnes il est possible d’ajouter/supprimer une fiche de présentation d’un membre dans la rubrique « L’équipe ». Pour cela il suffit de copier/supprimer le section comprise entre la ligne 141 et 151 du fichier index.html :
-CODE
+```html
 
-
+```
 
