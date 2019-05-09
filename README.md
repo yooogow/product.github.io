@@ -36,10 +36,9 @@ Cliquer sur « CLICK TO COPY » et coller le code à la place des lignes 14, 1
 CODE
 
 ## Personnaliser les images
+Il est fortement conseillé de ne pas modifier le code pour changer les images. Il est conseillé de changer les images dans le dossier images. Pour que cela fonctionne il faut que les images et le MÊME NOM et la MÊME EXTENTION. Les extensions sont toutes jpg SAUF le logo qui est en png ( car cela correspond au format fourni par freelogodesign.org ).
 
 ## Personnaliser la présentation du Figma
-### Le figma
-### Le fond de couleur
 
 ## Personnaliser le nombre de membres de la team
 
