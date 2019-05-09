@@ -31,9 +31,9 @@ L’ensemble du texte à modifier est dans le fichier index.html. Avec la config
 ### La police
 Pour personnaliser la police il faut tout d’abord choisir une police sur https://fonts.google.com.
 Une fois la police choisie il faut cliquer sur le « + » en haut à droite de la fiche de la police choisie :
-![](../images-readme/)
+![](../images-readme/googlefonts1.png)
 Un cadre Noir apparait en bas de la fenêtre. Il contient les instructions nécessaires pour importer la police dans son projet :
-![](../images-readme/)
+![](../images-readme/googlefonts2.png)
 Dans index.html
 Remplacer la ligne 9 :
 ```html
