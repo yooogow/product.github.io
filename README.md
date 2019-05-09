@@ -25,7 +25,14 @@ L’ensemble du texte à modifier est dans le fichier index.html. Avec la config
 
 ## Personnaliser la couleur
 ### La couleur des titres et des cadres
-Pour modifier la couleur des titres et des cadres, il faut modifier le fichier custom.css. Plus précisément, il faut modifier le code hexadécimal de la couleur dominante ( ex: #00898E ) aux lignes 7 et 8 :
+Pour modifier la couleur des titres et des cadres, il faut modifier le fichier custom.css. Plus précisément, il faut modifier le code hexadécimal de la couleur dominante ( ex: #00898E ) aux ligne 7 et 8 :
+CODE
+
+### Le fond de couleur ( dégradé ) de la présentation du Figma
+Pour modifier la fond couleur, il faut encore une fois modifier le fichier custom.css. Plus précisément, les lignes 14, 15 et 16 qui sont issues de UiGradients.com	
+SCREENSHOT1
+Cliquer sur « <> » ( Get css ) en haut à droite.
+Cliquer sur « CLICK TO COPY » et coller le code à la place des lignes 14, 15 et 16 :
 CODE
 
 ## Personnaliser les images
