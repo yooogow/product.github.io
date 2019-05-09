@@ -1,7 +1,8 @@
 # product-presentation
 
 ## Déscription générale
-Ce template permet de présenter une idée d’application web prototypée avec figma.com. Elle contient 6 sections :
+Ce template permet de présenter une idée d’application web prototypée avec https://www.figma.com. Ex: https://joz84.github.io/product.github.io/ . 
+Elle contient 6 sections :
 * Une barre de navigation
 * Une bannière
 * Un section présentant le concept
@@ -53,7 +54,7 @@ Pour modifier la couleur des titres et des cadres, il faut modifier le fichier c
 ```
 
 ### Le fond de couleur ( dégradé ) de la présentation du Figma
-Pour modifier la fond couleur, il faut encore une fois modifier le fichier custom.css. Plus précisément, les lignes 14, 15 et 16 qui sont issues de UiGradients.com	
+Pour modifier la fond couleur, il faut encore une fois modifier le fichier custom.css. Plus précisément, les lignes 14, 15 et 16 qui sont issues de https://www.uigradients.com	
 ![](../images-readme/)
 Cliquer sur « <> » ( Get css ) en haut à droite.
 ![](../images-readme/)
@@ -66,7 +67,7 @@ Cliquer sur « CLICK TO COPY » et coller le code à la place des lignes 14, 1
 Il est fortement conseillé de ne pas modifier le code pour changer les images. Il est conseillé de changer les images dans le dossier images. Pour que cela fonctionne il faut que les images et le MÊME NOM et la MÊME EXTENTION. Les extensions sont toutes jpg SAUF le logo qui est en png ( car cela correspond au format fourni par freelogodesign.org ).
 
 ## Inclure son la prévisualisation du prototype Figma
-Pour inclure la prévisualisation du prototype Figma il faut se rendre sur figma.com sur son projet et lancer la présentation ( le triangle en haut à droite ) :
+Pour inclure la prévisualisation du prototype Figma il faut se rendre sur https://www.figma.com sur son projet et lancer la présentation ( le triangle en haut à droite ) :
 ![](../images-readme/)
 Puis cliquer sur « Share Prototype » en haut à droite :
 ![](../images-readme/)
@@ -76,8 +77,6 @@ Puis « Copy » et coller le code dans le fichier index.html à la place de la
 ```html
 
 ```
-
-
 
 ## Personnaliser le nombre de membres de la team
 Si l’équipe n’est pas constituée de 4 personnes il est possible d’ajouter/supprimer une fiche de présentation d’un membre dans la rubrique « L’équipe ». Pour cela il suffit de copier/supprimer le section comprise entre la ligne 141 et 151 du fichier index.html :
