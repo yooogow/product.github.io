@@ -61,11 +61,11 @@ Pour modifier la couleur des titres et des cadres, il faut modifier le fichier c
 ### Le fond de couleur ( dégradé ) de la présentation du Figma
 Pour modifier la fond couleur, il faut encore une fois modifier le fichier custom.css. Plus précisément, les lignes 14, 15 et 16 qui sont issues de https://www.uigradients.com	
 
-<img src="/images-readme/uigradients.png" width=700>
+<img src="/images-readme/uigradients1.png" width=700>
 
 Cliquer sur « <> » ( Get css ) en haut à droite.
 
-<img src="/images-readme/uigradients.png" width=700>
+<img src="/images-readme/uigradients2.png" width=700>
 
 Cliquer sur « CLICK TO COPY » et coller le code à la place des lignes 14, 15 et 16 du fichier custom.css :
 ```css
@@ -97,7 +97,7 @@ Enfin coller le code dans le fichier index.html à la place de la ligne 93 :
 
 ```
 
-## Personnaliser le nombre de membres de la team
+## Personnaliser le nombre de membres de l'équipe
 Si l’équipe n’est pas constituée de 4 personnes il est possible d’ajouter/supprimer une fiche de présentation d’un membre dans la rubrique « L’équipe ». Pour cela il suffit de copier/supprimer le section comprise entre la ligne 141 et 151 du fichier index.html :
 ```html
 
