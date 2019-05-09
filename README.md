@@ -137,3 +137,43 @@ Si l’équipe n’est pas constituée de 4 personnes il est possible d’ajoute
 <!-- ########## -->
 ```
 
+## Mise en production
+
+La mise en production se fera sur https://github.com.
+
+### Copier le dossier sur son compte Github
+
+Après être retourné sur le dossier : 
+
+https://github.com/Joz84/product.github.io
+
+Cliquer sur « Fork » en haut à droite. Sélectionner votre nom.
+
+Le dossier est alors copier sur votre compte Github en ligne.
+
+### Modifier et personnaliser le template
+
+Cliquer sur le fichier que vous souhaitez modifier, par exemple: index.html :
+
+Puis sur le petit stylet ( « Edit this file ») en haut à droite.
+
+Le fichier est alors en  mode édition et modifiable.
+
+Copier coller le contenu de votre index.html à la place de celui-ci puis cliquer sur le bouton vert « Commit changes » en bas à gauche.
+
+Faite de même pour tous les fichiers/dossiers que vous souhaitez modifier.
+
+### Mettre en ligne
+
+Pour mettre le projet en ligne cliquer sur « Settings » en haut à droite
+
+Scroller jusqu’à la section « GitHub Pages »
+
+Cliquer sur « None » dans la rubrique « Source », puis sur « Master branch »
+Le site est alors en ligne. Un bandeau bleu avec le message « Your site is ready to be published at https://joz84.github.io/product.github.io/. » 
+
+Rafraîchissez la page.  
+
+Au bout d’une minute, lorsque le bandeau devient vert avec le message suivant : « 
+ Your site is published at https://joz84.github.io/product.github.io/ »
+Le site est en ligne à l’adresse indiquée.
