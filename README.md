@@ -1,7 +1,10 @@
 # product-presentation
 
 ## Déscription générale
-Ce template permet de présenter une idée d’application web prototypée avec https://www.figma.com. Ex: https://joz84.github.io/product.github.io/ . 
+Ce template permet de présenter une idée d’application web prototypée avec https://www.figma.com. 
+
+Ex: https://joz84.github.io/product.github.io/ . 
+
 Elle contient 6 sections :
 * Une barre de navigation
 * Une bannière
@@ -31,6 +34,7 @@ L’ensemble du texte à modifier est dans le fichier index.html. Avec la config
 
 ### La police
 Pour personnaliser la police il faut tout d’abord choisir une police sur https://fonts.google.com.
+
 Une fois la police choisie il faut cliquer sur le « + » en haut à droite de la fiche de la police choisie :
 
 <img src="/images-readme/googlefonts1.png" width=700>
@@ -42,7 +46,10 @@ Un cadre Noir apparait en bas de la fenêtre. Il contient les instructions néce
 Dans index.html
 Remplacer la ligne 9 :
 ```html
-
+<!-- ########## -->
+<!-- Récupérer cette ligne de code sur Google fonts : https://fonts.google.com/ -->
+<link href="https://fonts.googleapis.com/css?family=Akronim" rel="stylesheet">
+<!-- ########## -->
 ```
 Dans custom.css
 Modifier la ligne 3 pour changer la police des titres
