@@ -86,9 +86,13 @@ Puis cliquer sur « Share Prototype » en haut à droite :
 
 Puis « Public embed »:
 
-<img src="/images-readme/figm3.png" width=700>
+<img src="/images-readme/figma3.png" width=700>
 
-Puis « Copy » et coller le code dans le fichier index.html à la place de la ligne 93 :
+Puis « Copy » :
+
+<img src="/images-readme/figma4.png" width=700>
+
+Enfin coller le code dans le fichier index.html à la place de la ligne 93 :
 ```html
 
 ```
