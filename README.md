@@ -36,7 +36,8 @@ Une fois la police choisie il faut cliquer sur le « + » en haut à droite de
 <img src="/images-readme/googlefonts1.png" width=700>
 
 Un cadre Noir apparait en bas de la fenêtre. Il contient les instructions nécessaires pour importer la police dans son projet :
-![](/images-readme/googlefonts2.png){ width: 200px; }
+
+<img src="/images-readme/googlefonts2.png" width=700>
 
 Dans index.html
 Remplacer la ligne 9 :
@@ -59,9 +60,13 @@ Pour modifier la couleur des titres et des cadres, il faut modifier le fichier c
 
 ### Le fond de couleur ( dégradé ) de la présentation du Figma
 Pour modifier la fond couleur, il faut encore une fois modifier le fichier custom.css. Plus précisément, les lignes 14, 15 et 16 qui sont issues de https://www.uigradients.com	
-![](/images-readme/)
+
+<img src="/images-readme/uigradients.png" width=700>
+
 Cliquer sur « <> » ( Get css ) en haut à droite.
-![](/images-readme/)
+
+<img src="/images-readme/uigradients.png" width=700>
+
 Cliquer sur « CLICK TO COPY » et coller le code à la place des lignes 14, 15 et 16 du fichier custom.css :
 ```css
 
@@ -72,11 +77,17 @@ Il est fortement conseillé de ne pas modifier le code pour changer les images. 
 
 ## Inclure son la prévisualisation du prototype Figma
 Pour inclure la prévisualisation du prototype Figma il faut se rendre sur https://www.figma.com sur son projet et lancer la présentation ( le triangle en haut à droite ) :
-![](/images-readme/)
+
+<img src="/images-readme/figma1.png" width=700>
+
 Puis cliquer sur « Share Prototype » en haut à droite :
-![](/images-readme/)
+
+<img src="/images-readme/figma2.png" width=700>
+
 Puis « Public embed »:
-![](/images-readme/)
+
+<img src="/images-readme/figm3.png" width=700>
+
 Puis « Copy » et coller le code dans le fichier index.html à la place de la ligne 93 :
 ```html
 
