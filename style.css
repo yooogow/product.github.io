@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  background: #E8F6EF;
 }
 
 i {
@@ -73,7 +74,7 @@ i {
   padding-top: 70px;
   color: white;
   text-align: center;
-  height: 70vh;
+  height: 700px;
   background-size: cover !important;
   display: flex;
   align-items: center;
