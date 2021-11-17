@@ -4,7 +4,7 @@ body {
 }
 
 i {
-  font-size: 34px;
+  font-size: 34 px;
 }
 
 .wrapper {
@@ -145,6 +145,6 @@ i {
 .footer-links a:hover {
   opacity: 1;
 }
-.footer .fa-heart {
+.footer .fa-heart { 
   color: #D23333;
 }
