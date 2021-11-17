@@ -1,8 +1,12 @@
 /*Les polices*/
 /*Récupérer cette propriété sur Google fonts : https://fonts.google.com/*/
 h1, h2, h3, h4, h5, h6, i { font-family: 'Gurajada', serif; }
-p { font-family: 'Gurajada', serif; }
+p { font-family: 'Gurajada', serif; 
+font-size: 30px;
+}
+h3,h4,h5,h6,i{font-size: 50px;
 
+}
 /*La couleur dominante*/
 .circle, .navbar, .frame { border-color: #E8F6EF; }
 h1, h2, h3, h4, h5, h6, i, .item { color: E8F6EF; }
